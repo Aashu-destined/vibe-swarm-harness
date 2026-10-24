@@ -30,7 +30,7 @@ Single-agent "vibe coding" feels like magic until you scale to real-world codeba
 
 ---
 
-## 🏗️ Star-Worthy Repository Layout
+## 🏗️ Repository Layout
 
 ```text
 vibe-swarm-harness/
