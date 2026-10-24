@@ -1,0 +1,23 @@
+# Git Worktrees directory (outside repo or in sibling directory)
+trees/
+../trees/
+
+# OS and Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Logs & temp files
+*.log
+tmp/
+temp/
